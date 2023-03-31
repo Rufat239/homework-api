@@ -1,0 +1,38 @@
+.container{
+    img{
+        width: 13rem;
+    }
+}
+
+.bg-image{
+    background-image: url(../images/sphoto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+
+.container{
+    
+.row{
+    padding: 150px 0;
+
+    h1{
+        font-size: 75px;
+    }
+    p{
+        max-width: 500px;
+        font-size: 15px;
+        line-height: 26px;
+        letter-spacing: 0.5px;
+        color: #777;
+    }
+}
+}
+
+.cards{
+    img{
+        width: 100px;
+
+        border-radius: 50%;
+    }
+}
